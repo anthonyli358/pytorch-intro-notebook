@@ -5,6 +5,3 @@ __pycache__/
 
 # Jupyter files
 .ipynb_checkpoints/
-
-# Parquet Files
-flight_data_parquet/
